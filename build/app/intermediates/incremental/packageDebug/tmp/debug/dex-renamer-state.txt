@@ -1,0 +1,4 @@
+#Mon Mar 16 16:05:15 EET 2020
+base.0=/media/ab-dev/DeV/githop-project/app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
